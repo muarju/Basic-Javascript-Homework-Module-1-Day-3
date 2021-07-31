@@ -1,5 +1,5 @@
-# FS-May21-M1D3
- Basic Javascript Homework Module 1 Day 3
+# Basic Javascript Homework Module 1 Day 3
+
  
  **1. Use ternary operator to assign "male" or "female" string to a variable based on the value of another 'isMale' variable**
 ```
